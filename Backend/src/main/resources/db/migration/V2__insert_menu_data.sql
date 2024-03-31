@@ -1,5 +1,6 @@
 
 
-INSERT INTO menu (title, price, image) VALUES ('Hambúrguer', 9.80, 'https://www.freepik.com/free-photo/close-up-beef-burgers-cutting-board-with-sauce_11525908.htm#fromView=search&page=1&position=5&uuid=ed35d35a-e504-4201-b765-c876801856c4');
-INSERT INTO menu (title, price, image) VALUES ('Salada Caesar', 8.50, 'https://www.freepik.com/free-photo/top-view-caesar-salad-oval-plate-green-white-checkered-tablecloth-dark-red-background_16937016.htm#fromView=search&page=1&position=0&uuid=f8684b16-04c6-4a57-88ec-ce51fe4fb38c');
-INSERT INTO menu (title, price, image) VALUES ('Sopa de Legumes', 4.99, 'https://www.freepik.com/free-photo/vegetable-soup-with-sliced-yellow-paper_7303409.htm#fromView=search&page=1&position=2&uuid=05684d68-b588-440b-96dc-c653cf067224');
+INSERT INTO menu (title, price, image) VALUES ('Hambúrguer', 9.80, 'https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+INSERT INTO menu (title, price, image) VALUES ('Salada Caesar', 8.50, 'https://img.freepik.com/free-photo/top-view-caesar-salad-oval-plate-green-white-checkered-tablecloth-dark-red-background_140725-124913.jpg?w=740&t=st=1711906262~exp=1711906862~hmac=136cb1cc34ac9dbdbfa92771c0146cc5a9e862ceba318410c6a236b6d7768c4c');
+INSERT INTO menu (title, price, image) VALUES ('Sopa de Legumes', 4.99, 'https://img.freepik.com/free-photo/vegetable-soup-with-sliced-yellow-paper_140725-6388.jpg?w=740&t=st=1711906210~exp=1711906810~hmac=4db1b9219d6632c39453006f9f7687a591e4d2e4b5b59c89d192700e8bec1c42');
+INSERT INTO menu (title, price, image) VALUES ('Francesinha', 11.50, 'https://feed.continente.pt/media/npwnn00t/francesinha.jpg?anchor=center&mode=crop&width=826&height=620&rnd=133320085655430000&format=webp');
